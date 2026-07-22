@@ -1,0 +1,20 @@
+node_modules
+dist
+dist-ssr
+*.local
+*.log
+.env
+.env.*
+.DS_Store
+.vercel
+
+# local working files, not part of the site
+media-raw
+attic
+design
+HANDOFF.md
+MEDIA_BRIEF.md
+STONES-STYLE-PROMPT.md
+.claude
+.impeccable
+.playwright-mcp
